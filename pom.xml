@@ -2,14 +2,14 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>io.github.LucyEReilly</groupId>
+  <groupId>io.github.wonsunahn</groupId>
   <artifactId>cs1632-cicd-pipelines-ler98</artifactId>
   <version>1.0</version>
   <packaging>jar</packaging>
 
   <name>cs1632-cicd-junit</name>
   <description>An exercise demonstrating CI/CD through github actions.  It uses JUnit for unit testing.</description>
-  <url>https://github.com/LucyEReilly/CS1632_CICD_JUnit</url>
+  <url>https://github.com/wonsunahn/CS1632_CICD_JUnit</url>
 
   <licenses>
     <license>
@@ -20,8 +20,8 @@
 
   <developers>
     <developer>
-      <name>Lucy Reilly</name>
-      <email>ler98@pitt.edu</email>
+      <name>Wonsun Ahn</name>
+      <email>wahn@pitt.edu</email>
       <organization>University of Pittsburgh</organization>
       <organizationUrl>https://www.pitt.edu/</organizationUrl>
     </developer>
@@ -29,8 +29,8 @@
 
   <scm>
     <connection>scm:git:git://github.com/wonsunahn/CS1632_CICD_JUnit.git</connection>
-    <developerConnection>scm:git:ssh://github.com:LucyEReilly/CS1632_CICD_JUnit.git</developerConnection>
-    <url>http://github.com/LucyEReilly/CS1632_CICD_JUnit/tree/master</url>
+    <developerConnection>scm:git:ssh://github.com:wonsunahn/CS1632_CICD_JUnit.git</developerConnection>
+    <url>http://github.com/wonsunahn/CS1632_CICD_JUnit/tree/master</url>
    </scm>
 
   <distributionManagement>
